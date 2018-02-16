@@ -5,7 +5,7 @@
 # Copyright 2017, YOUR_COMPANY_NAME
 #
 # All rights reserved - Do Not Redistribute
-#
+# hai
 
 package 'java-1.8.0'
 
